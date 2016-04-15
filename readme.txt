@@ -12,5 +12,9 @@ dd
 gg
 kk
 learn  fenzhi
-i love wangmingyi &  wulong  bb
+
+i love wangmingyi & and wulong  bb
+
+wulong is wrong
+
 
